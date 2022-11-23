@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body {
+    background: url('./patheya.jpg') no-repeat;
+    
+}
+
+h1 {
+    color: black;
+}
+.Login-Page {
+    color: black;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.Login-Page h1{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+.Login-Page input{
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border: blue;
+    border-radius: 5px;
+    outline: black;
+    background-color: skyblue ;
+    
+    
+
+}

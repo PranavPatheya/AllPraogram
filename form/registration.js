@@ -7,3 +7,4 @@ function addData(){
     localStorage.setItem('userPwd',pass);
 
 }
+
