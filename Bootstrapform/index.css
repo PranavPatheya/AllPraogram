@@ -1,0 +1,14 @@
+
+body {
+    background: url('./95PgKD.jpg') no-repeat;
+    background-size: 10000px;
+    width: 50%;
+}
+img {
+    position:absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(-80%, -80%);
+    width: 30%;
+}
+
