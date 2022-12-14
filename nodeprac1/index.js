@@ -5,3 +5,7 @@ http.createServer(function (req, res) {
     res.write(uc("hello world!")); 
     res.end();
 }).listen(5000); 
+
+
+var up = require('uppercase') 
+console.log(uc.uppercase("Hi Guys"));
